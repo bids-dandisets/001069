@@ -1,0 +1,19 @@
+{
+    "Name": "SN recording during Temporal lobe seizures",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This data set contains the electrophysiological recordings from 2 NHPs during temporal lobe seizures induced by penicillin injection into the hippocampus. ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Devergnas, Annaelle"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

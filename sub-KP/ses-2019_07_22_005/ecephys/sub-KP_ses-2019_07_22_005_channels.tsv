@@ -1,0 +1,10 @@
+name	electrode_name	type	units	sampling_frequency	stream_id	gain
+chan33	e000	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan34	e001	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan39	e002	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan40	e003	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan42	e004	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan45	e005	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan46	e006	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan51	e007	n/a	V	2000.0	ElectricalSeries	2.5e-07
+chan52	e008	n/a	V	2000.0	ElectricalSeries	2.5e-07
