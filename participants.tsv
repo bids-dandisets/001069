@@ -1,3 +1,3 @@
-participant_id	species	sex
-sub-Dory	Macaca mulatta	F
-sub-KP	Macaca mulatta	M
+participant_id	original_participant_id	species	sex
+sub-Dory	sub-Dory	Macaca mulatta	F
+sub-KP	sub-KP	Macaca mulatta	M
